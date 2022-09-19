@@ -1,6 +1,6 @@
 # Exploring IMDB actors network using NetworkX (Mid-term group project)
 
-2) Individual Final course project analyzing the sentiment diffusion phenomena on traders network
+![Screenshot](network.png)
 
 ## Tasks:
 1. Scrape the IMDB website to build and build a network model 
